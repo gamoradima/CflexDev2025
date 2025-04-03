@@ -76,30 +76,6 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "b9989ebc-4a62-4dd5-a85b-753d92eaae41"
-        },
-        {
-          "SchemaColumnUId": "2181d308-a3f1-de22-5f46-080dd32a7364",
-          "Value": "https://reddit.com"
-        },
-        {
-          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-          "Value": "3. Coupe"
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
-          "Value": "\/Date(1743503170754+0300)\/"
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "d5336378-7b2a-430c-860b-b302da494e55"
         },
         {
@@ -108,11 +84,11 @@
         },
         {
           "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-          "Value": "5. Pickup truck"
+          "Value": "5. Pickup"
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "new description"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
