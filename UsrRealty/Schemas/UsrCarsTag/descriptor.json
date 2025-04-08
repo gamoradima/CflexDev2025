@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9fb0a44b-6dc4-469b-9ca6-d4786e746233",
+    "Name": "UsrCarsTag",
+    "ModifiedOnUtc": "\/Date(1744037419000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cars section tag",
+    "DependsOn": []
+  }
+}

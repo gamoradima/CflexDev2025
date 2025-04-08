@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2969315d-368b-4744-a828-df96f2e9693d",
+    "Name": "UsrRealtyVisitFormPage",
+    "ModifiedOnUtc": "\/Date(1744033658000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty visit form page"
+  }
+}

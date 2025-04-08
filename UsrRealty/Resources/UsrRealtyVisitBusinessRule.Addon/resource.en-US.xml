@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.39499d11-b87d-ea78-34e0-d1ec9437d12a.Caption" Value="ChildRule-9840cfc0-f9f0-7ebd-0280-f1cba6714644-PopulateValue" />
+			<Item Name="AddonConfig.Rules.7b109960-24f0-f940-39ad-c0553e838192.Caption" Value="ChildRule-9840cfc0-f9f0-7ebd-0280-f1cba6714644-ClearValue" />
+			<Item Name="AddonConfig.Rules.9840cfc0-f9f0-7ebd-0280-f1cba6714644.Caption" Value="Apply filter: Visit manager" />
+			<Item Name="Caption" Value="Realty visit (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

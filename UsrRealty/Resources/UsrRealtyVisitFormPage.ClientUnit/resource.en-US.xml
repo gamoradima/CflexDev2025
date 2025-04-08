@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty visit form page" />
+			<Item Name="LocalizableStrings.addRecord_1i6d5bg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_4ing6uq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_6xwdkyj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ict7hjb_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_os1uukg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ParentRealtyManagerCity_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ParentRealtyManagerCity_label.Value" Value="Parent Realty.Manager.City" />
+			<Item Name="Parameters.2f898c69-d112-020c-af87-01710ea92e03.Caption" Value="Text 1" />
+		</Items>
+	</Group>
+</Resources>

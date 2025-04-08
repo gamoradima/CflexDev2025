@@ -326,6 +326,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtCustomer360App">
+			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CrtBaseConsts">
 			<HintPath>$(RelativePkgFolderPath)/CrtBaseConsts/$(StandalonePackageAssemblyPath)/CrtBaseConsts.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -371,13 +376,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCalendar">
-			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
+		<Reference Include="CrtEmailTemplate">
+			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtEmailTemplate">
-			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
+		<Reference Include="CrtCalendar">
+			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -416,13 +421,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtMobileFreedomUIStylesFor7x">
-			<HintPath>$(RelativePkgFolderPath)/CrtMobileFreedomUIStylesFor7x/$(StandalonePackageAssemblyPath)/CrtMobileFreedomUIStylesFor7x.dll</HintPath>
+		<Reference Include="CrtCopilotIntentsStudio">
+			<HintPath>$(RelativePkgFolderPath)/CrtCopilotIntentsStudio/$(StandalonePackageAssemblyPath)/CrtCopilotIntentsStudio.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCopilotIntentsStudio">
-			<HintPath>$(RelativePkgFolderPath)/CrtCopilotIntentsStudio/$(StandalonePackageAssemblyPath)/CrtCopilotIntentsStudio.dll</HintPath>
+		<Reference Include="CrtMobileFreedomUIStylesFor7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtMobileFreedomUIStylesFor7x/$(StandalonePackageAssemblyPath)/CrtMobileFreedomUIStylesFor7x.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -451,16 +456,6 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtStudioCopilot">
-			<HintPath>$(RelativePkgFolderPath)/CrtStudioCopilot/$(StandalonePackageAssemblyPath)/CrtStudioCopilot.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtNextStep">
-			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="Finesse">
 			<HintPath>$(RelativePkgFolderPath)/Finesse/$(StandalonePackageAssemblyPath)/Finesse.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -471,8 +466,18 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtNextStep">
+			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="FeatureToggling">
 			<HintPath>$(RelativePkgFolderPath)/FeatureToggling/$(StandalonePackageAssemblyPath)/FeatureToggling.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtStudioCopilot">
+			<HintPath>$(RelativePkgFolderPath)/CrtStudioCopilot/$(StandalonePackageAssemblyPath)/CrtStudioCopilot.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -493,6 +498,11 @@
 		</Reference>
 		<Reference Include="CrtTouchPointBase">
 			<HintPath>$(RelativePkgFolderPath)/CrtTouchPointBase/$(StandalonePackageAssemblyPath)/CrtTouchPointBase.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCustomer360Mobile">
+			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360Mobile/$(StandalonePackageAssemblyPath)/CrtCustomer360Mobile.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -526,16 +536,6 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCustomer360Mobile">
-			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360Mobile/$(StandalonePackageAssemblyPath)/CrtCustomer360Mobile.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtCustomer360App">
-			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="CrtSpecification">
 			<HintPath>$(RelativePkgFolderPath)/CrtSpecification/$(StandalonePackageAssemblyPath)/CrtSpecification.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -549,10 +549,19 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/Account/Account.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/Account/Account.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarBodyType/UsrCarBodyType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarBodyType/UsrCarBodyType.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCars/UsrCars.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCars/UsrCars.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsFile/UsrCarsFile.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsFile/UsrCarsFile.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsFolder/UsrCarsFolder.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsFolder/UsrCarsFolder.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsInFolder/UsrCarsInFolder.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsInFolder/UsrCarsInFolder.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsInTag/UsrCarsInTag.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsInTag/UsrCarsInTag.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsTag/UsrCarsTag.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrCarsTag/UsrCarsTag.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyTeam/UsrRealtyTeam.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyTeam/UsrRealtyTeam.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>

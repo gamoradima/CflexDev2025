@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cars" />
+			<Item Name="Columns.UsrName.Caption" Value="姓名" />
+			<Item Name="Columns.UsrNotes.Caption" Value="注释" />
+		</Items>
+	</Group>
+</Resources>

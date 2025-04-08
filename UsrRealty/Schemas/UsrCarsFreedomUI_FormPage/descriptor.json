@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "174306df-217d-457e-932b-860061264463",
+    "Name": "UsrCarsFreedomUI_FormPage",
+    "ModifiedOnUtc": "\/Date(1744038084000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Cars FreedomUI form page"
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "efb08f6a-e7f5-4350-89e9-75092fc0e8c3",
+    "Name": "UsrCars",
+    "ModifiedOnUtc": "\/Date(1744037408000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cars",
+    "DependsOn": []
+  }
+}

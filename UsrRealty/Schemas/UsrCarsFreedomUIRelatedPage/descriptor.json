@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c77c5569-1f89-407c-8442-f5bbc336e715",
+    "Name": "UsrCarsFreedomUIRelatedPage",
+    "ModifiedOnUtc": "\/Date(1744037709000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Cars FreedomUI (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty type" />
+			<Item Name="Columns.UsrColor.Caption" Value="Color" />
 			<Item Name="Columns.UsrPosition.Caption" Value="Position" />
 		</Items>
 	</Group>

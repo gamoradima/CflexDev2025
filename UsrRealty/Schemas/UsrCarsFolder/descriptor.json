@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0f7ef0a-85a6-4056-9d4d-91fdb406684e",
+    "Name": "UsrCarsFolder",
+    "ModifiedOnUtc": "\/Date(1744037415000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cars folder",
+    "DependsOn": []
+  }
+}

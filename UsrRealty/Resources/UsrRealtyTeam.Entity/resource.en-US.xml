@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty team" />
+			<Item Name="Columns.UsrParentRealty.Caption" Value="Parent realty" />
+			<Item Name="Columns.UsrTeamContact.Caption" Value="Team contact" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

@@ -5,6 +5,10 @@
 			<Item Name="Caption" Value="Realty" />
 			<Item Name="Columns.UsrArea.Caption" Value="Area, m2" />
 			<Item Name="Columns.UsrAutoNumber.Caption" Value="Number" />
+			<Item Name="Columns.UsrCity.Caption" Value="City" />
+			<Item Name="Columns.UsrColor.Caption" Value="Color Selection" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
+			<Item Name="Columns.UsrFullTitle.Caption" Value="Full title" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />

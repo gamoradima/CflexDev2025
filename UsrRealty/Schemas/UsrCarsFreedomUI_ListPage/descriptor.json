@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5709ec93-9fef-407c-832b-5ecc4509fe67",
+    "Name": "UsrCarsFreedomUI_ListPage",
+    "ModifiedOnUtc": "\/Date(1744037911000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Cars FreedomUI list page"
+  }
+}

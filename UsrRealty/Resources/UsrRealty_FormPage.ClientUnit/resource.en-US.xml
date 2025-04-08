@@ -5,7 +5,23 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_0ab3lys_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_3hemvqz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_i5exban_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mz2cqze_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_szm2cz0_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_ugslqt7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 10 sq m" />
+			<Item Name="LocalizableStrings.ExpansionPanel_izlymey_title.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_il9ddkg_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ar0dyg8_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_37k6os3_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_fa4nryg_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_e0v1q0i_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_xm77raw_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ManagerCityCountry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ManagerCityCountry_label.Value" Value="Country of Manager's City" />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager Email" />
+			<Item Name="LocalizableStrings.MultiSelect_RealtyTeam_label.Value" Value="Multi-select" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>

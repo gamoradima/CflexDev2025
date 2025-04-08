@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "c77c5569-1f89-407c-8442-f5bbc336e715",
+      "A2": "UsrCarsFreedomUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "efb08f6a-e7f5-4350-89e9-75092fc0e8c3",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "1b945910-4f95-4319-9c01-26bae1e66a24",
+            "PageSchemaUId": "174306df-217d-457e-932b-860061264463",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}
