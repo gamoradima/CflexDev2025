@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="My Result Page" />
+			<Item Name="Parameters.2e56c94a-e950-ee0d-2ef9-4945c2fdfe19.Caption" Value="Text result" />
+		</Items>
+	</Group>
+</Resources>

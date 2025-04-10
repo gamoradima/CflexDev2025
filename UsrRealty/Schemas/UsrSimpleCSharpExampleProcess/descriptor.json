@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b742f63d-f93d-4a69-a2ce-fb5852faa879",
+    "Name": "UsrSimpleCSharpExampleProcess",
+    "ModifiedOnUtc": "\/Date(1744205405000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Simple C Sharp example process",
+    "DependsOn": []
+  }
+}

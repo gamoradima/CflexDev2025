@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d3d9ca2-6a2a-43d0-9a3c-b21e7be59d6b",
+    "Name": "UsrMyResultPage",
+    "ModifiedOnUtc": "\/Date(1744203762000)\/",
+    "Parent": {
+      "UId": "27e1b215-163a-4b82-b0a6-9872a8dde6e4",
+      "Name": "PageWithTopAreaAndTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "My Result Page"
+  }
+}
